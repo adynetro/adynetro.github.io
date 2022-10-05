@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  voxxed-days:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-10-05T16:36:13.9016993+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 6e7b18912d388661b801b48fec122d9b7fbcab7e131c457131a6d414f9e86e96
+    name: voxxed-days
+    type: application
+    urls:
+    - voxxed-days-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-05T16:36:13.9016993+03:00"
